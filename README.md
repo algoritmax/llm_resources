@@ -1,2 +1,13 @@
-# llm_resources
-Large Language Model Resources
+# Large Language Model Resources
+
+## Important Papers
+
+## Prompting
+
+## Fine Tuning
+
+## Models
+
+# Various
+
+
